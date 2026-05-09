@@ -1,1 +1,4 @@
-
+B- Un sistema de control de versiones para registrar cambios en proyectos
+B- Registrar y organizar los archivos y cambios de un proyecto
+B-Agrega archivos al área de preparación para registrar cambios
+A- Guarda un registro de cambios realizados en el proyecto
